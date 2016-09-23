@@ -1,0 +1,16 @@
+{
+    "data_headers": {
+        "sid": "21615e0ab3dec46dc9ab8b1d70ea1f8a1467506231",
+        "user_id": 245811639,
+        "viewer_id": 183204286,
+        "servertime": 1467506231,
+        "result_code": 1
+    },
+    "data": {
+        "after_exp": 23733,
+        "after_level": 34,
+        "after_skill_level": 1,
+        "success_type": 1,
+        "cleared_missions": []
+    }
+}

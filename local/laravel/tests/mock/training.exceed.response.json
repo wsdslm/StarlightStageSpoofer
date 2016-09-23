@@ -1,0 +1,13 @@
+{
+    "data_headers": {
+        "sid": "2a2ed71468d2057b44cb9caee7c2d7f71467529955",
+        "user_id": 245811639,
+        "viewer_id": 183204286,
+        "servertime": 1467529955,
+        "result_code": 1
+    },
+    "data": {
+        "after_step": 2,
+        "cleared_missions": []
+    }
+}

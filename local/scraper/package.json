@@ -1,0 +1,37 @@
+{
+  "name": "starlight-stage-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Starlight Stage Spoofer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Frizz925/StarlightStageCrawler.git"
+  },
+  "keywords": [
+    "idolmaster",
+    "cinderella",
+    "girls",
+    "starlight",
+    "stage",
+    "spoofer",
+    "crawler",
+    "mobage"
+  ],
+  "author": "Frizz925 <Frizz925@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/Frizz925/StarlightStageCrawler/issues"
+  },
+  "homepage": "https://gitlab.com/Frizz925/StarlightStageCrawler#README",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "lodash": "^4.13.1",
+    "mysql": "^2.11.1"
+  }
+}

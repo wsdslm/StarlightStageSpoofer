@@ -1,0 +1,28 @@
+{
+    "live_setting": 0,
+    "unit_id": 6,
+    "client_state": 0,
+    "medley_step": 1,
+    "live_start_token": 0,
+    "live_play_mode": 0,
+    "mainmember_serial_ids": [
+        108,
+        136,
+        62,
+        160,
+        172
+    ],
+    "backmember_serial_ids": [
+        96,
+        97,
+        112,
+        1,
+        76,
+        111,
+        82,
+        93,
+        121,
+        104
+    ],
+    "viewer_id": "72562725531265566151178555257367xFLmNJSOfE1sGeqDkICO71iYtPYKWh18KZUl2dDOygQ="
+}

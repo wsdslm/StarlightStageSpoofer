@@ -1,0 +1,246 @@
+{
+    "data_headers": {
+        "sid": "23b7fb4b4193d7c9b2e5a216f731743c1466111645",
+        "user_id": 771853851,
+        "viewer_id": 451892427,
+        "servertime": 1466111645,
+        "result_code": 1
+    },
+    "data": {
+        "max_score": 328320,
+        "max_combo": 133,
+        "clear_number": 1,
+        "card_list": [
+            {
+                "serial_id": 87,
+                "card_id": 200013,
+                "level": 15,
+                "exp": 1230,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 88,
+                "card_id": 300017,
+                "level": 12,
+                "exp": 840,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 89,
+                "card_id": 200069,
+                "level": 17,
+                "exp": 1540,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            }
+        ],
+        "drop_list": [
+            {
+                "id": 200013,
+                "reward_type": 6,
+                "num": 1,
+                "is_rare_drop": 0,
+                "card_level": 15,
+                "card_exp": 1230,
+                "card_step": 0,
+                "card_love": 0,
+                "card_skill_level": 1,
+                "is_new": 1
+            },
+            {
+                "id": 300017,
+                "reward_type": 6,
+                "num": 1,
+                "is_rare_drop": 0,
+                "card_level": 12,
+                "card_exp": 840,
+                "card_step": 0,
+                "card_love": 0,
+                "card_skill_level": 1,
+                "is_new": 0
+            },
+            {
+                "id": 200069,
+                "reward_type": 6,
+                "num": 1,
+                "is_rare_drop": 0,
+                "card_level": 17,
+                "card_exp": 1540,
+                "card_step": 0,
+                "card_love": 0,
+                "card_skill_level": 1,
+                "is_new": 0
+            },
+            {
+                "id": 10031,
+                "reward_type": 5,
+                "num": 1,
+                "is_rare_drop": 0
+            },
+            {
+                "id": 10021,
+                "reward_type": 5,
+                "num": 1,
+                "is_rare_drop": 0
+            },
+            {
+                "id": 10021,
+                "reward_type": 5,
+                "num": 1,
+                "is_rare_drop": 0
+            }
+        ],
+        "item_list": [
+            {
+                "item_id": 10031,
+                "add_number": 1,
+                "number": 13
+            },
+            {
+                "item_id": 10021,
+                "add_number": 2,
+                "number": 6
+            }
+        ],
+        "present_count": 3,
+        "live_prp": 32,
+        "prp_list": [
+            {
+                "live_detail_id": 4,
+                "score": 337142,
+                "prp": 33
+            },
+            {
+                "live_detail_id": 232,
+                "score": 334639,
+                "prp": 33
+            },
+            {
+                "live_detail_id": 120,
+                "score": 328320,
+                "prp": 32
+            },
+            {
+                "live_detail_id": 339,
+                "score": 306160,
+                "prp": 30
+            },
+            {
+                "live_detail_id": 222,
+                "score": 287473,
+                "prp": 28
+            },
+            {
+                "live_detail_id": 269,
+                "score": 196795,
+                "prp": 19
+            }
+        ],
+        "added_bonuses": {
+            "money": {
+                "star_rank": 10,
+                "room": 100,
+                "daily": 1000
+            },
+            "fan": {
+                "room": 10,
+                "daily": 1000
+            }
+        },
+        "fan_list": [
+            {
+                "chara_id": 227,
+                "before_fan": 2525,
+                "after_fan": 2857
+            },
+            {
+                "chara_id": 167,
+                "before_fan": 3490,
+                "after_fan": 3822
+            },
+            {
+                "chara_id": 234,
+                "before_fan": 3490,
+                "after_fan": 3822
+            },
+            {
+                "chara_id": 270,
+                "before_fan": 2525,
+                "after_fan": 2857
+            },
+            {
+                "chara_id": 101,
+                "before_fan": 3490,
+                "after_fan": 3822
+            }
+        ],
+        "add_love": 27,
+        "user_update_info": {
+            "before_level": 8,
+            "after_level": 9,
+            "add_exp": 63,
+            "exp": 840,
+            "add_gold": 704,
+            "gold": 178882,
+            "real_gold": 178882,
+            "add_fan": 1660,
+            "fan": 19160,
+            "add_friend_pt": 10,
+            "friend_pt": 90,
+            "real_friend_pt": 90
+        },
+        "user_reload_info": {
+            "stamina": 44,
+            "stamina_heal_time": 1466111645,
+            "free_jewel": 1499,
+            "jewel": 0
+        },
+        "cleared_missions": [],
+        "love_list": [
+            {
+                "viewer_id": 451892427,
+                "serial_id": 70,
+                "before_love": 50,
+                "after_love": 66,
+                "max_love_flag": 0
+            },
+            {
+                "viewer_id": 451892427,
+                "serial_id": 32,
+                "before_love": 29,
+                "after_love": 38,
+                "max_love_flag": 0
+            },
+            {
+                "viewer_id": 451892427,
+                "serial_id": 1,
+                "before_love": 148,
+                "after_love": 150,
+                "max_love_flag": 1
+            }
+        ],
+        "achievement_reward_list": [
+            {
+                "achievement_type": 1,
+                "achievement_rank": 1
+            },
+            {
+                "achievement_type": 1,
+                "achievement_rank": 2
+            },
+            {
+                "achievement_type": 3,
+                "achievement_rank": 1
+            }
+        ],
+        "non_update_flag": 0
+    }
+}

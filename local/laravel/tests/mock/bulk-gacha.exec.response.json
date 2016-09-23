@@ -1,0 +1,217 @@
+{
+    "data_headers": {
+        "sid": "4b5baed8cb498978cf30746f1bf03f081466108396",
+        "user_id": 771853851,
+        "viewer_id": 451892427,
+        "servertime": 1466108395,
+        "result_code": 1
+    },
+    "data": {
+        "after_friend_pt": 80,
+        "gacha_result": [
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 1,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            },
+            {
+                "reward_id": 200003,
+                "reward_type": 6,
+                "is_new": 0,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1
+            }
+        ],
+        "card_list": [
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            },
+            {
+                "serial_id": 84,
+                "card_id": 200003,
+                "level": 1,
+                "exp": 0,
+                "step": 0,
+                "love": 0,
+                "skill_level": 1,
+                "protect": 0
+            }
+        ],
+        "cleared_missions": []
+    }
+}
